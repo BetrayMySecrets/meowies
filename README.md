@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://github.com/blendvr/M30W/blob/main/output-onlinepngtools%20(3).png?raw=true">
+   &ensp; <img src="https://github.com/blendvr/M30W/blob/main/output-onlinepngtools%20(3).png?raw=true">
 </div>
  &nbsp; 
    <div align="center">
@@ -24,7 +24,7 @@
 
  &nbsp;
 
-<a href="https://www.patreon.com/c/2i37/about">patreon</a> &ensp; &ensp; <a href="https://meowst1ck.straw.page/">strawpage</a> &ensp;
+<a href="https://www.patreon.com/c/2i37/about">patreon</a> &ensp; <img src="https://github.com/blendvr/M30W/blob/main/tanczoncy%20gremlin.gif?raw=true"> &ensp; <a href="https://meowst1ck.straw.page/">strawpage</a>
  
  &nbsp;
 
@@ -33,5 +33,5 @@
 </div>
  &nbsp; 
 <div align="center">
-   <img src="https://github.com/blendvr/M30W/blob/main/output-onlinepngtools%20(3).png?raw=true">
+    &ensp; <img src="https://github.com/blendvr/M30W/blob/main/output-onlinepngtools%20(3).png?raw=true">
 </div>
