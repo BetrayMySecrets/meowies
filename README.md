@@ -1,8 +1,8 @@
-<div align="center">
-  <img src="https://horrorgifs.neocities.org/lines/Line%20(102).gif" alt="bajojajo">
-</div>
 
- &nbsp;
+   <div align="center">
+     <img src="https://github.com/blendvr/M30W/blob/main/output-onlinepngtools%20(2).png?raw=true"> <img src="https://github.com/blendvr/M30W/blob/main/output-onlinepngtools%20(1).png?raw=true">
+
+ &nbsp; 
 
   <div align="center">
     <p>
