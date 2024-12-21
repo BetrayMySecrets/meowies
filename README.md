@@ -14,4 +14,8 @@
  <img src="https://github.com/Webosik/M30W/blob/main/cd66a17b.gif?raw=true">
 </div>
 
-<img src="https://github.com/Webosik/M30W/blob/main/tumblr_576f8ac04b6fdf0ce47f960c0ac7e86b_b428bf13_250.png?raw=true"> <img src="">
+ &nbsp;
+
+<div align="center">
+    <img src="https://github.com/Webosik/M30W/blob/main/tumblr_576f8ac04b6fdf0ce47f960c0ac7e86b_b428bf13_250.png?raw=true"> <img       src="https://github.com/Webosik/M30W/blob/main/tumblr_18228f907873b22b621cc181eee2789d_2a0bec98_100.gif?raw=true"> <img src="https://github.com/Webosik/M30W/blob/main/tumblr_e73e0d0e69c563dae64e9e0e212fa273_3574be5b_100.gif?raw=true">
+</div>
